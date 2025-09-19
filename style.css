@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  color: pink;
+  padding: 20px;
+}
+
+h1 {
+  color: hsla(339, 98%, 37%, 0.719);
+}
+
+h2 {
+  color: deeppink;
+}
+
+h3 {
+  margin-top: 30px;
+  font-size: 20px;
+  color: deeppink;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 0;
+}
